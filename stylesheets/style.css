@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* CSS Document */
+	#wrapper {
+		width: 960px;
+		padding: 5px;
+		margin: 20px auto;
+		
+
+}
+                 
+#header{
+	height: 100px;
+	
+	
+	
+  	
+}
+#sidebar{
+	float: left;
+	width: 300px;
+	
+	
+}
+
+#content {
+	float: right;
+	width: 300px;
+	
+	
+}
+
+#footer {
+	clear: both;
+	
+}
+body {
+	font-family:impact, "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:blueviolet;
+	background-color: black
+}
+
+body {
+	background-image: url(
+	)
+		/*------------------------------
+		
+		reponsive design
+		
+		-------------------------------*/
+		
+}
+
+
+
+
+
+
+
+
+
+
+
